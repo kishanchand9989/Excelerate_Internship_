@@ -23,3 +23,13 @@ Demographic Analysis: Analyzed user demographics, revealing a nearly equal gende
 
 Improved marketing resource allocation by 30% through targeted demographic analysis, leading to a significant boost in user engagement.
 Enabled the client to tailor marketing campaigns effectively, targeting the most promising user segments for better engagement and conversion rates.
+
+![image](https://github.com/user-attachments/assets/45a454b6-49a7-4d4f-946f-66569f960bb3)
+
+![image](https://github.com/user-attachments/assets/46f90a5e-1fab-4c90-a2aa-5e311a47a61c)
+
+![image](https://github.com/user-attachments/assets/3b8cd95f-700f-4bf9-a186-d9614c9db667)
+
+![image](https://github.com/user-attachments/assets/394147d5-5aa3-46ed-9e93-13666ac1b0f1)
+
+
